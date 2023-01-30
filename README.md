@@ -1,6 +1,6 @@
 ## Python Flask Authentication
 
-Code based on youtube video [video](https://www.youtube.com/watch?v=71EU8gnZqZQ) uploaded on [my YouTube channel](https://www.youtube.com/watch?v=71EU8gnZqZQ).
+Python autentication poc to test and develop ways to autenticate.
 
 ## Installation
 
