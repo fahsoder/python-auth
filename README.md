@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 ##### Windows:
 ```zsh
-python app.py
+py -3 app.py
 ```
 ##### macOS/Linux:
 ```zsh
