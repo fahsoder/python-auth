@@ -1,6 +1,6 @@
 ## Python Flask Authentication
 
-Python autentication poc to test and develop ways to autenticate.
+Python authentication poc to test and develop ways to autenticate.
 
 ## Installation
 
